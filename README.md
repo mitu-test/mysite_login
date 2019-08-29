@@ -53,4 +53,8 @@ python manage.py runserver 127.0.0.0:8000
 ```
 9.访问127.0.0.0:8000/login进入登录页面
 -------
+![](https://github.com/PyGuojun/mysite_login/blob/master/image/login.png)
+10.访问127.0.0.0:8000/register进入注册页面
+-------
+![](https://github.com/PyGuojun/mysite_login/blob/master/image/register.png)
 
