@@ -53,4 +53,4 @@ python manage.py runserver 127.0.0.0:8000
 ```
 9.访问127.0.0.0:8000/login进入登录页面
 -------
-![](https://graph.baidu.com/resource/111deae03ec595eeb9abd01566484087.jpg)
+
